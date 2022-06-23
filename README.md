@@ -8,6 +8,7 @@ In each of my jobs, the most fascinating thing for me was working with data and 
 Below I present dashboards which I made.
 
 #Covid-19 between 01-24-2020 and 01-24-2021
+
 Deaths and cases
 ![image](https://user-images.githubusercontent.com/107800911/175405228-0471fb3a-2970-467c-9a64-4e3e73cb819e.png)
 
