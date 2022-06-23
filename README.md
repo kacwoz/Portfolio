@@ -18,3 +18,7 @@ Tests and vacciantions
 Cases, tests, %postive_tests
 ![image](https://user-images.githubusercontent.com/107800911/175405310-9131a31b-4016-47c8-915f-09708a1e9812.png)
 
+
+
+#Sales Data Dashboard
+![image](https://user-images.githubusercontent.com/107800911/175405713-d1b38b52-07b0-4126-b90d-1725428c97e0.png)
